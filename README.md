@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Fullstack, Robotics and Automation.
 - 🌱 I’m currently learning and growing.
 - 💞️ I’m looking to collaborate on C, Python and Robotics projects. 
-- 📫 Reach me at azconcept2016@gmail.com, ayahaya@live.unilag.edu.ng
+- 📫 Reach me at azconcept2016@gmail.com ayahaya@live.unilag.edu.ng
 
 <!---
 azconcept-droid/azconcept-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
