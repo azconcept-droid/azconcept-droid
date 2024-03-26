@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azeez
-- 👀 I’m interested in DevOps.
+- 👀 I’m interested in FULLSTACK.
 - 🌱 I’m currently working, learning and growing.
-- 💞️ I’m looking to collaborate on DevOps projects. 
+- 💞️ I’m looking to collaborate on FULLSTACK projects. 
 - 📫 Reach me at azconcept2016@gmail.com ayahaya@live.unilag.edu.ng
 
 <!---
