@@ -1,6 +1,6 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fazconcept-droid&label=Visitors&labelColor=%23697689&countColor=%23555555" />
 
-<img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&vCenter=true&width=600&height=70&color=58A6FF&duration=4000&pause=1000&lines=Assistant+Lead+DevOps+%26+Cloud+Engineer;Building+secure%2C+scalable+cloud+infrastructure;IaC+%7C+GitOps+%7C+Platform+Engineering" />
+<img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&vCenter=true&width=200&height=30&color=58A6FF&duration=4000&pause=1000&lines=Assistant+Lead+DevOps+%26+Cloud+Engineer;Building+secure%2C+scalable+cloud+infrastructure;IaC+%7C+GitOps+%7C+Platform+Engineering" />
 
 <div align="center">
 <strong>Infrastructure as Code</strong> · <strong>GitOps</strong> · <strong>Cloud-Native Architecture</strong> · <strong>Observability</strong> · <strong>Platform Engineering</strong>
