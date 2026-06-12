@@ -9,7 +9,7 @@
 <br/>
 
 <h3 align="center">
-I'm Azeez Yahaya — I assistant lead of a team of five DevOps engineers in building robust AWS infrastructure. My work centers on automating deployments through IaC and CI/CD, designing cloud-native solutions, and ensuring our systems are secure, scalable, and ready for production.
+I'm Azeez Yahaya — I'm assistant lead of a team of five DevOps engineers in building robust AWS infrastructure. My work centers on automating deployments through IaC and CI/CD, designing cloud-native solutions, and ensuring our systems are secure, scalable, and ready for production.
 </h3>
 
 <br/>
