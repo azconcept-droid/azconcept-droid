@@ -3,7 +3,7 @@
 <img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&vCenter=true&width=800&height=100&color=58A6FF&duration=4000&pause=1000&lines=Backend+Software+Engineer;Building+secure%2C+scalable+backend+systems;Assistant+Lead+DevOps+%26+Cloud+Engineer;Building+secure%2C+scalable+cloud+infrastructure;IaC+%7C+GitOps+%7C+Platform+Engineering" />
 
 <div align="center">
-<strong>Infrastructure as Code</strong> · <strong>GitOps</strong> · <strong>Cloud-Native Architecture</strong> · <strong>Observability</strong> · <strong>Platform Engineering</strong>
+<strong>Systems Design</strong> · <strong>Infrastructure as Code</strong> · <strong>GitOps</strong> · <strong>Cloud-Native Architecture</strong> · <strong>Observability</strong> · <strong>Platform Engineering</strong>
 </div>
 
 <br/>
