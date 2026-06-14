@@ -46,6 +46,22 @@ I design and manage AWS infrastructure with a strong focus on **security**, **co
 
 <hr/>
 
+<h2>🛠️ Featured Project</h2>
+<h3>I work as a backend engineer at winnov8. I built the backend APIs of this platform from scratch</h3>
+
+<table>
+<tr>
+<td>
+
+### 🔒 [winnov8](https://www.winnov8hq.com/) &nbsp; <img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square&logoColor=white" />
+A micro-SaaS **collaboration** platform. Helping **beginners** in tech gain **real-world experience**, while **supporting product builders and businesses** in executing their digital ideas, which earn trust from the world’s best companies.
+
+🔗 **[winnov8.com](https://www.winnov8hq.com/)**
+
+</td>
+</tr>
+</table>
+
 <!-- <h2>🛠️ Featured Project</h2>
 
 <table>
