@@ -24,7 +24,7 @@ I'm Azeez Yahaya — I'm assistant lead of a team of five DevOps engineers in bu
   <a href="www.linkedin.com/in/yahaya-azeez-288634237" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/azconcept-droid" target="_blank">
+  <a href="https://azconcept-droid.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </div>
